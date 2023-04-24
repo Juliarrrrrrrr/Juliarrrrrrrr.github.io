@@ -1,3 +1,3 @@
-# kupyuxa.github.io
+# Julia
 
  Тестовый сайт
